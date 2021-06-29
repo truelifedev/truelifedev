@@ -1,5 +1,5 @@
 ### About Me:
-- 👋 Hi, I’m @truelifedev
+- 👋 Hi, I’m @truelifedev@
 - 👀 I’m interested in Software Engineering
 - ✨ I’m currently focusing on Smart Contract
 - 💞️ I’m looking to collaborate on Smart Contract Development
@@ -46,7 +46,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truelifedev&theme=white" /> 
 
-<img align="center" alt="truelifedev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=truelifedev&show_icons=true&hide_border=true" /><br /><br />
 
 ---
 
