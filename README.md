@@ -20,8 +20,8 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/truelifedev/)](https://github.com/truelifedev/)
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
 [![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/truelifedev/)
 [![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/truelifedev/)
@@ -37,9 +37,10 @@
 [![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/truelifedev/)
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/truelifedev/)
 
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/truelifedev/)](https://github.com/truelifedev/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/truelifedev/)](https://github.com/truelifedev/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/truelifedev/)](https://github.com/truelifedev/)
+
 <br />
 
 --- 
@@ -47,7 +48,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truelifedev&theme=white" /> 
 
 
----
 
 
 [github]: https://github.com/truelifedev/
