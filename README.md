@@ -5,9 +5,9 @@
 - 💞️ I’m looking to collaborate on Smart Contract Development
 
 ### Languages and Tools:
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/msilucifer/)
-[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/)
+[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/truelifedev/)](https://github.com/truelifedev/)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/truelifedev/)](https://github.com/truelifedev/)
 
 [![Solidity](https://github.com/msilucifer/msilucifer/blob/master/solidity.png)](https://github.com/msilucifer/)
 
