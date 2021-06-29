@@ -49,7 +49,6 @@
 
 ---
 
-### Connect with me:
 
 [github]: https://github.com/truelifedev/
 
