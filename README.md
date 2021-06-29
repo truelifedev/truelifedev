@@ -28,6 +28,10 @@
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/truelifedev/)
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/truelifedev/)
 
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/truelifedev/)](https://github.com/truelifedev/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/truelifedev/)](https://github.com/truelifedev/)
+
 [![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/truelifedev/)
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/truelifedev/)
 [![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)](https://github.com/truelifedev/)
@@ -37,9 +41,6 @@
 [![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/truelifedev/)
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/truelifedev/)
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/truelifedev/)](https://github.com/truelifedev/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/truelifedev/)](https://github.com/truelifedev/)
 
 <br />
 
