@@ -10,6 +10,8 @@
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/truelifedev/)](https://github.com/truelifedev/)
 
 [![Solidity](https://github.com/truelifedev/truelifedev/blob/master/solidity.png)](https://github.com/truelifedev/)
+[![Rust](https://github.com/truelifedev/truelifedev/blob/master/rust.png)](https://github.com/truelifedev/)
+[![Go](https://github.com/truelifedev/truelifedev/blob/master/go.png)](https://github.com/truelifedev/)
 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/) 
@@ -45,7 +47,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truelifedev&theme=white" /> 
 
-<img align="center" alt="truelifedev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msilucifer&show_icons=true&hide_border=true" /><br /><br />
+<img align="center" alt="truelifedev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=truelifedev&show_icons=true&hide_border=true" /><br /><br />
 
 ---
 
