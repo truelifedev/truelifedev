@@ -1,7 +1,8 @@
 ### About Me:
 - 👋 Hi, I’m @truelifedev@
-- 👀 I’m interested in Software Engineering
-- ✨ I’m currently focusing on Smart Contract
+- ![image](https://user-images.githubusercontent.com/83732538/123809954-ffe63f00-d92c-11eb-9d56-c30bfb876524.png)
+👀 I’m passionate in Software Engineering & Ethereum World
+- ✨ I’m currently focusing on Smart Contract and learning Rust/Go
 - 💞️ I’m looking to collaborate on Smart Contract Development
 
 ### Languages and Tools:
