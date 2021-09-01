@@ -45,7 +45,7 @@
 <br />
 
 --- 
-
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truelifedev&theme=white" /> 
 <div>
 <img align="center" alt="truelifedev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=truelifedev&show_icons=true&hide_border=true" /><br />
@@ -62,6 +62,7 @@
 </a>&nbsp;&nbsp;
 </p>
     </div>
+  </div>
 
 [github]: https://github.com/truelifedev/
 
