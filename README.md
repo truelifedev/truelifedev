@@ -41,9 +41,6 @@
 [![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/truelifedev/)
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/truelifedev/)
 
-
-<br />
-
 --- 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truelifedev&theme=white" /> 
 <p align="center">
